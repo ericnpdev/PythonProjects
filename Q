@@ -1,4 +1,4 @@
-print("Seja muito bem vindo ao quiz do Iury!")
+print("Seja muito bem vindo ao quiz do Eric!")
 answer_user = input("Quer começar? (S/N) ")
 
 if answer_user != "S":
